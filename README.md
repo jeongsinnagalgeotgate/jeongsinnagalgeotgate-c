@@ -16,7 +16,7 @@ gcc -o interpreter interpreter.c -DDEBUG
 
 ## Usage
 ```bash
-./interpreter filename [-s stack_size] [-q queue_size]
+./interpreter filename[ -s stack_size][ -q queue_size]
 ```
 
 ## Example
